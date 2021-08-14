@@ -1,10 +1,12 @@
 package main
 
-import ( "fmt")
-//; "math/rand"
+import ( "fmt"; "math/rand"; "time")
 
 func main() {
-	moneyInAccount := 210
+	rand.Seed(time.Now().UnixNano())
+	moneyInAccount := rand.Intn(1000)
+	print(moneyInAccount)
+	print("\n")
 	thingWeWantToBuy := 800
 
 	if moneyInAccount > thingWeWantToBuy {
