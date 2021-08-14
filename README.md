@@ -14,4 +14,6 @@
   18. git branch -M main
   
   19. git push -u origin main
+
+  20. Remember that after the repos creation, you don't need to add origin. Remember to pull!
   
