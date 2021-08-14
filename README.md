@@ -1,5 +1,5 @@
 # Goland_Workshop
-12 git init
+12 git init \n
   13 git status
   14 git add .
   15 git commit -am "This is my golang workshop"
