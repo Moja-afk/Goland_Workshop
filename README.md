@@ -1,5 +1,5 @@
 # Goland_Workshop
-12. git init
+12. git init the folder or file name
 
   13. git status
   
